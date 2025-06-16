@@ -1,0 +1,399 @@
+19:24:40.542 [main] INFO  - =====Clicking login buton=====
+19:24:41.718 [main] INFO  - =====Entering username and password=====
+19:24:42.008 [main] INFO  - =====Clicking login buton=====
+19:24:44.843 [main] INFO  - ====="Validating login result for status: " + status=====
+19:24:49.965 [main] INFO  - =====Clicking login buton=====
+19:24:51.097 [main] INFO  - =====Entering username and password=====
+19:24:51.261 [main] INFO  - =====Clicking login buton=====
+19:24:51.415 [main] INFO  - ====="Validating login result for status: " + status=====
+19:24:55.927 [main] INFO  - =====Clicking login buton=====
+19:24:56.871 [main] INFO  - =====Entering username and password=====
+19:24:56.965 [main] INFO  - =====Clicking login buton=====
+19:24:57.158 [main] INFO  - ====="Validating login result for status: " + status=====
+19:25:01.665 [main] INFO  - =====Clicking login buton=====
+19:25:03.101 [main] INFO  - =====Entering username and password=====
+19:25:03.196 [main] INFO  - =====Clicking login buton=====
+19:25:03.251 [main] INFO  - ====="Validating login result for status: " + status=====
+19:30:12.626 [main] INFO  - =====Clicking login buton=====
+19:30:13.630 [main] INFO  - =====Entering username and password=====
+19:30:13.883 [main] INFO  - =====Clicking login buton=====
+19:30:13.975 [main] INFO  - ====="Validating login result for status: " + status=====
+19:30:22.320 [main] INFO  - =====Clicking login buton=====
+19:31:12.047 [main] INFO  - =====Entering username and password=====
+19:31:12.248 [main] INFO  - =====Clicking login buton=====
+19:31:12.350 [main] INFO  - ====="Validating login result for status: " + status=====
+19:31:15.663 [main] INFO  - =====Clicking login buton=====
+19:33:33.300 [main] INFO  - =====Entering username and password=====
+19:33:33.487 [main] INFO  - =====Clicking login buton=====
+19:33:33.569 [main] INFO  - ====="Validating login result for status: " + status=====
+19:33:36.993 [main] INFO  - =====Clicking login buton=====
+19:34:51.776 [main] INFO  - =====Entering username and password=====
+19:34:51.987 [main] INFO  - =====Clicking login buton=====
+19:34:52.075 [main] INFO  - ====="Validating login result for status: " + status=====
+19:42:11.667 [main] INFO  - =====Clicking login buton=====
+19:42:12.714 [main] INFO  - =====Entering username and password=====
+19:42:12.960 [main] INFO  - =====Clicking login buton=====
+19:42:14.927 [main] INFO  - ====="Validating login result for status: " + status=====
+19:45:31.724 [main] INFO  - =====Clicking login buton=====
+19:45:33.484 [main] INFO  - =====Entering username and password=====
+19:45:33.754 [main] INFO  - =====Clicking login buton=====
+19:47:19.918 [main] INFO  - =====Clicking login buton=====
+19:47:21.301 [main] INFO  - =====Entering username and password=====
+19:47:21.547 [main] INFO  - =====Clicking login buton=====
+19:47:21.669 [main] INFO  - ====="Validating login result for status: " + status=====
+19:47:21.752 [main] INFO  - ====="Validating login result for status: " + status=====
+19:49:01.488 [main] INFO  - =====Clicking login buton=====
+19:49:02.578 [main] INFO  - =====Entering username and password=====
+19:49:02.826 [main] INFO  - =====Clicking login buton=====
+19:49:02.915 [main] INFO  - ====="Validating login result for status: " + status=====
+19:51:27.609 [main] INFO  - =====Clicking login buton=====
+19:51:28.989 [main] INFO  - =====Entering username and password=====
+19:51:29.254 [main] INFO  - =====Clicking login buton=====
+19:51:31.041 [main] INFO  - ====="Validating login result for status: " + status=====
+19:56:45.154 [main] INFO  - =====Clicking login buton=====
+19:58:02.303 [main] INFO  - =====Clicking login buton=====
+19:58:06.596 [main] INFO  - =====Entering username and password=====
+19:58:06.952 [main] INFO  - =====Clicking login buton=====
+19:58:07.066 [main] INFO  - ====="Validating login result for status: " + status=====
+20:00:15.153 [main] INFO  - =====Clicking login buton=====
+20:00:16.786 [main] INFO  - =====Entering username and password=====
+20:00:17.042 [main] INFO  - =====Clicking login buton=====
+20:00:18.605 [main] INFO  - ====="Validating login result for status: " + status=====
+12:48:43.323 [main] INFO  - =====Clicking login button=====
+12:48:45.039 [main] INFO  - =====Entering username and password=====
+12:48:45.285 [main] INFO  - =====Clicking login button=====
+12:48:47.587 [main] INFO  - ====="Validating login result for status: " + status=====
+13:15:59.563 [main] INFO  - =====Clicking login button=====
+13:15:59.568 [main] INFO  - =====Entering username and password=====
+13:17:04.758 [main] INFO  - =====Clicking login button=====
+13:17:04.771 [main] INFO  - =====Entering username and password=====
+13:18:36.484 [main] INFO  - =====Clicking login button=====
+13:18:36.489 [main] INFO  - =====Entering username and password=====
+13:29:34.980 [main] INFO  - =====Clicking login button=====
+13:29:34.985 [main] INFO  - =====Entering username and password=====
+13:32:29.854 [main] INFO  - =====Clicking login button=====
+13:32:29.865 [main] INFO  - =====Entering username and password=====
+13:34:21.707 [main] INFO  - =====Clicking login button=====
+13:35:11.366 [main] INFO  - =====Entering username and password=====
+13:35:11.755 [main] INFO  - ====="Validating login result for status: " + status=====
+13:38:42.135 [main] INFO  - =====Clicking login button=====
+13:38:43.839 [main] INFO  - =====Entering username and password=====
+13:38:44.162 [main] INFO  - ====="Validating login result for status: " + status=====
+13:39:36.434 [main] INFO  - =====Clicking login button=====
+13:39:37.415 [main] INFO  - =====Entering username and password=====
+13:39:37.671 [main] INFO  - ====="Validating login result for status: " + status=====
+13:41:58.623 [main] INFO  - =====Clicking login button=====
+13:41:59.658 [main] INFO  - =====Entering username and password=====
+13:44:31.745 [main] INFO  - =====Clicking login button=====
+13:44:33.402 [main] INFO  - =====Entering username and password=====
+13:48:47.950 [main] INFO  - =====Clicking login button=====
+13:48:49.249 [main] INFO  - =====Entering username and password=====
+13:48:55.717 [main] INFO  - =====Clicking login button=====
+13:48:56.809 [main] INFO  - =====Entering username and password=====
+13:49:26.546 [main] INFO  - =====Clicking login button=====
+13:49:27.525 [main] INFO  - =====Entering username and password=====
+13:49:32.613 [main] INFO  - =====Clicking login button=====
+13:49:33.574 [main] INFO  - =====Entering username and password=====
+13:50:08.447 [main] INFO  - =====Clicking login button=====
+13:50:09.635 [main] INFO  - =====Entering username and password=====
+13:50:15.096 [main] INFO  - =====Clicking login button=====
+13:50:16.643 [main] INFO  - =====Entering username and password=====
+13:52:52.284 [main] INFO  - =====Clicking login button=====
+13:52:53.435 [main] INFO  - =====Entering username and password=====
+13:52:54.610 [main] INFO  - ====="Validating login result for status: " + status=====
+13:53:09.836 [main] INFO  - =====Clicking login button=====
+13:53:10.808 [main] INFO  - =====Entering username and password=====
+13:53:12.618 [main] INFO  - ====="Validating login result for status: " + status=====
+13:53:43.916 [main] INFO  - =====Clicking login button=====
+13:53:44.941 [main] INFO  - =====Entering username and password=====
+13:53:46.344 [main] INFO  - ====="Validating login result for status: " + status=====
+13:54:18.493 [main] INFO  - =====Clicking login button=====
+13:54:21.397 [main] INFO  - =====Clicking login button=====
+13:55:58.509 [main] INFO  - =====Clicking login button=====
+13:56:12.178 [main] INFO  - =====Clicking login button=====
+13:56:33.807 [main] INFO  - =====Clicking login button=====
+13:56:34.894 [main] INFO  - =====Entering username and password=====
+13:56:35.269 [main] INFO  - ====="Validating login result for status: " + status=====
+13:56:42.488 [main] INFO  - =====Clicking login button=====
+13:56:43.512 [main] INFO  - =====Entering username and password=====
+13:56:43.763 [main] INFO  - ====="Validating login result for status: " + status=====
+13:56:48.225 [main] INFO  - =====Clicking login button=====
+13:56:49.312 [main] INFO  - =====Entering username and password=====
+13:56:49.528 [main] INFO  - ====="Validating login result for status: " + status=====
+13:57:38.690 [main] INFO  - =====Clicking login button=====
+13:57:39.660 [main] INFO  - =====Entering username and password=====
+13:57:41.737 [main] INFO  - ====="Validating login result for status: " + status=====
+13:57:46.709 [main] INFO  - =====Clicking login button=====
+13:57:47.873 [main] INFO  - =====Entering username and password=====
+13:57:48.176 [main] INFO  - ====="Validating login result for status: " + status=====
+13:57:52.808 [main] INFO  - =====Clicking login button=====
+13:57:53.751 [main] INFO  - =====Entering username and password=====
+13:57:53.987 [main] INFO  - ====="Validating login result for status: " + status=====
+13:58:23.175 [main] INFO  - =====Clicking login button=====
+13:58:24.039 [main] INFO  - =====Entering username and password=====
+13:58:29.254 [main] INFO  - =====Clicking login button=====
+13:58:30.343 [main] INFO  - =====Entering username and password=====
+13:58:33.691 [main] INFO  - =====Clicking login button=====
+13:58:36.545 [main] INFO  - =====Entering username and password=====
+16:27:19.055 [main] INFO  - =====Clicking login button=====
+16:27:20.121 [main] INFO  - =====Entering username and password=====
+16:27:22.271 [main] INFO  - ====="Validating login result for status: " + status=====
+16:27:26.749 [main] INFO  - =====Clicking login button=====
+16:27:27.840 [main] INFO  - =====Entering username and password=====
+16:27:28.095 [main] INFO  - ====="Validating login result for status: " + status=====
+16:27:33.544 [main] INFO  - =====Clicking login button=====
+16:27:34.737 [main] INFO  - =====Entering username and password=====
+16:27:35.136 [main] INFO  - ====="Validating login result for status: " + status=====
+16:27:38.439 [main] INFO  - =====Clicking login button=====
+16:27:39.507 [main] INFO  - =====Entering username and password=====
+16:27:39.834 [main] INFO  - ====="Validating login result for status: " + status=====
+16:28:36.077 [main] INFO  - =====Clicking login button=====
+16:28:37.131 [main] INFO  - =====Entering username and password=====
+16:28:39.465 [main] INFO  - ====="Validating login result for status: " + status=====
+16:28:44.169 [main] INFO  - =====Clicking login button=====
+16:28:45.602 [main] INFO  - =====Entering username and password=====
+16:28:45.835 [main] INFO  - ====="Validating login result for status: " + status=====
+16:28:50.230 [main] INFO  - =====Clicking login button=====
+16:28:51.321 [main] INFO  - =====Entering username and password=====
+16:28:51.549 [main] INFO  - ====="Validating login result for status: " + status=====
+16:28:56.052 [main] INFO  - =====Clicking login button=====
+16:28:57.717 [main] INFO  - =====Entering username and password=====
+16:28:57.912 [main] INFO  - ====="Validating login result for status: " + status=====
+19:30:55.309 [main] INFO  - =====Clicking login button=====
+19:30:56.255 [main] INFO  - =====Entering username and password=====
+19:30:56.620 [main] INFO  - ====="Validating login result for status: " + status=====
+19:31:03.509 [main] INFO  - =====Clicking login button=====
+19:31:04.621 [main] INFO  - =====Entering username and password=====
+19:31:04.940 [main] INFO  - ====="Validating login result for status: " + status=====
+19:31:09.468 [main] INFO  - =====Clicking login button=====
+19:31:10.472 [main] INFO  - =====Entering username and password=====
+19:31:10.790 [main] INFO  - ====="Validating login result for status: " + status=====
+19:31:15.294 [main] INFO  - =====Clicking login button=====
+19:31:16.153 [main] INFO  - =====Entering username and password=====
+19:31:16.450 [main] INFO  - ====="Validating login result for status: " + status=====
+12:29:54.255 [main] INFO  - =====Clicking login button=====
+12:29:55.249 [main] INFO  - =====Entering username and password=====
+12:29:55.555 [main] INFO  - ====="Validating login result for status: " + status=====
+12:30:01.795 [main] INFO  - =====Clicking login button=====
+12:30:02.714 [main] INFO  - =====Entering username and password=====
+12:30:03.055 [main] INFO  - ====="Validating login result for status: " + status=====
+12:30:06.173 [main] INFO  - =====Clicking login button=====
+12:30:09.190 [main] INFO  - =====Entering username and password=====
+12:30:09.453 [main] INFO  - ====="Validating login result for status: " + status=====
+12:30:14.269 [main] INFO  - =====Clicking login button=====
+12:30:15.189 [main] INFO  - =====Entering username and password=====
+12:30:15.428 [main] INFO  - ====="Validating login result for status: " + status=====
+20:13:49.217 [TestNG-PoolService-3] INFO  - =====Clicking login button=====
+20:13:51.251 [TestNG-PoolService-3] INFO  - =====Entering username and password=====
+20:13:54.016 [TestNG-PoolService-3] INFO  - ====="Validating login result for status: " + status=====
+20:14:16.366 [TestNG-PoolService-1] INFO  - =====Entering username and password=====
+20:14:57.634 [TestNG-PoolService-1] INFO  - ====="Validating login result for status: " + status=====
+20:28:58.300 [TestNG-PoolService-3] INFO  - =====Clicking login button=====
+20:29:04.141 [TestNG-PoolService-4] INFO  - =====Clicking login button=====
+20:29:09.371 [TestNG-PoolService-4] INFO  - =====Entering username and password=====
+20:29:09.916 [TestNG-PoolService-4] INFO  - ====="Validating login result for status: " + status=====
+20:29:29.084 [TestNG-PoolService-2] INFO  - =====Entering username and password=====
+20:29:29.790 [TestNG-PoolService-2] INFO  - ====="Validating login result for status: " + status=====
+20:29:44.615 [TestNG-PoolService-3] INFO  - =====Entering username and password=====
+20:29:44.640 [TestNG-PoolService-1] INFO  - =====Clicking login button=====
+20:29:45.237 [TestNG-PoolService-3] INFO  - ====="Validating login result for status: " + status=====
+20:29:46.402 [TestNG-PoolService-1] INFO  - =====Entering username and password=====
+20:31:57.969 [main] INFO  - =====Clicking login button=====
+20:32:20.254 [main] INFO  - =====Entering username and password=====
+20:32:51.184 [main] INFO  - ====="Validating login result for status: " + status=====
+20:33:39.896 [main] INFO  - =====Clicking login button=====
+20:34:39.542 [main] INFO  - =====Clicking login button=====
+20:34:42.079 [main] INFO  - =====Entering username and password=====
+20:35:34.554 [main] INFO  - ====="Validating login result for status: " + status=====
+20:35:52.780 [main] INFO  - =====Clicking login button=====
+20:38:31.733 [main] INFO  - =====Clicking login button=====
+20:40:29.065 [main] INFO  - =====Clicking login button=====
+20:40:32.750 [main] INFO  - =====Clicking login button=====
+20:41:05.680 [main] INFO  - =====Clicking login button=====
+20:41:07.668 [main] INFO  - =====Entering username and password=====
+20:41:34.549 [main] INFO  - ====="Validating login result for status: " + status=====
+20:42:26.595 [main] INFO  - =====Clicking login button=====
+20:43:33.331 [main] INFO  - =====Clicking login button=====
+20:43:38.757 [main] INFO  - =====Entering username and password=====
+20:43:39.204 [main] INFO  - ====="Validating login result for status: " + status=====
+20:44:42.746 [main] INFO  - =====Clicking login button=====
+20:44:46.531 [main] INFO  - =====Entering username and password=====
+20:44:47.094 [main] INFO  - ====="Validating login result for status: " + status=====
+20:45:28.785 [main] INFO  - =====Clicking login button=====
+20:45:45.239 [TestNG-PoolService-4] INFO  - =====Clicking login button=====
+20:45:49.991 [TestNG-PoolService-1] INFO  - =====Clicking login button=====
+20:45:52.393 [TestNG-PoolService-2] INFO  - =====Clicking login button=====
+20:45:52.908 [TestNG-PoolService-3] INFO  - =====Clicking login button=====
+20:45:54.062 [TestNG-PoolService-4] INFO  - =====Entering username and password=====
+20:45:55.393 [TestNG-PoolService-1] INFO  - =====Entering username and password=====
+20:45:56.139 [TestNG-PoolService-2] INFO  - =====Entering username and password=====
+20:45:56.535 [TestNG-PoolService-4] INFO  - ====="Validating login result for status: " + status=====
+20:45:57.275 [TestNG-PoolService-3] INFO  - =====Entering username and password=====
+20:45:57.501 [TestNG-PoolService-2] INFO  - ====="Validating login result for status: " + status=====
+20:45:59.896 [TestNG-PoolService-3] INFO  - ====="Validating login result for status: " + status=====
+20:46:01.107 [TestNG-PoolService-1] INFO  - ====="Validating login result for status: " + status=====
+21:07:07.315 [TestNG-PoolService-3] INFO  - =====Clicking login button=====
+21:07:07.906 [TestNG-PoolService-2] INFO  - =====Clicking login button=====
+21:07:09.353 [TestNG-PoolService-4] INFO  - =====Entering username and password=====
+21:07:10.869 [TestNG-PoolService-3] INFO  - =====Entering username and password=====
+21:07:11.710 [TestNG-PoolService-1] INFO  - =====Entering username and password=====
+21:07:12.047 [TestNG-PoolService-4] INFO  - ====="Validating login result for status: " + status=====
+21:07:13.793 [TestNG-PoolService-3] INFO  - ====="Validating login result for status: " + status=====
+21:07:15.682 [TestNG-PoolService-1] INFO  - ====="Validating login result for status: " + status=====
+21:07:17.412 [TestNG-PoolService-2] INFO  - =====Entering username and password=====
+21:07:18.185 [TestNG-PoolService-2] INFO  - ====="Validating login result for status: " + status=====
+21:08:38.116 [TestNG-PoolService-4] INFO  - =====Clicking login button=====
+21:08:40.077 [TestNG-PoolService-4] INFO  - =====Entering username and password=====
+21:08:40.711 [TestNG-PoolService-4] INFO  - ====="Validating login result for status: " + status=====
+21:08:44.743 [TestNG-PoolService-2] INFO  - =====Clicking login button=====
+21:08:46.912 [TestNG-PoolService-2] INFO  - =====Entering username and password=====
+21:08:47.405 [TestNG-PoolService-2] INFO  - ====="Validating login result for status: " + status=====
+21:08:47.454 [TestNG-PoolService-3] INFO  - =====Clicking login button=====
+21:08:49.041 [TestNG-PoolService-3] INFO  - =====Entering username and password=====
+21:08:49.628 [TestNG-PoolService-3] INFO  - ====="Validating login result for status: " + status=====
+21:08:56.995 [TestNG-PoolService-1] INFO  - =====Clicking login button=====
+21:08:59.873 [TestNG-PoolService-1] INFO  - =====Entering username and password=====
+21:09:53.228 [TestNG-PoolService-1] INFO  - ====="Validating login result for status: " + status=====
+21:11:35.125 [TestNG-PoolService-4] INFO  - =====Clicking login button=====
+21:11:37.261 [TestNG-PoolService-4] INFO  - =====Entering username and password=====
+21:11:37.890 [TestNG-PoolService-4] INFO  - ====="Validating login result for status: " + status=====
+21:11:38.221 [TestNG-PoolService-3] INFO  - =====Clicking login button=====
+21:11:38.327 [TestNG-PoolService-2] INFO  - =====Clicking login button=====
+21:11:40.006 [TestNG-PoolService-3] INFO  - =====Entering username and password=====
+21:11:40.109 [TestNG-PoolService-2] INFO  - =====Entering username and password=====
+21:11:40.523 [TestNG-PoolService-3] INFO  - ====="Validating login result for status: " + status=====
+21:11:40.646 [TestNG-PoolService-2] INFO  - ====="Validating login result for status: " + status=====
+21:11:44.185 [TestNG-PoolService-1] INFO  - =====Clicking login button=====
+21:11:47.036 [TestNG-PoolService-1] INFO  - =====Entering username and password=====
+21:11:47.966 [TestNG-PoolService-1] INFO  - ====="Validating login result for status: " + status=====
+21:30:53.417 [TestNG-PoolService-3] INFO  - =====Clicking login button=====
+21:30:59.256 [TestNG-PoolService-2] INFO  - =====Clicking login button=====
+21:32:19.334 [TestNG-PoolService-2] INFO  - =====Clicking login button=====
+21:32:21.510 [TestNG-PoolService-2] INFO  - =====Entering username and password=====
+21:32:22.114 [TestNG-PoolService-2] INFO  - ====="Validating login result for status: " + status=====
+21:32:26.906 [TestNG-PoolService-4] INFO  - =====Clicking login button=====
+21:32:28.214 [TestNG-PoolService-4] INFO  - =====Entering username and password=====
+21:32:28.659 [TestNG-PoolService-4] INFO  - ====="Validating login result for status: " + status=====
+21:32:35.126 [TestNG-PoolService-3] INFO  - =====Clicking login button=====
+21:32:37.202 [TestNG-PoolService-3] INFO  - =====Entering username and password=====
+21:32:38.194 [TestNG-PoolService-3] INFO  - ====="Validating login result for status: " + status=====
+21:33:35.638 [TestNG-PoolService-1] INFO  - =====Clicking login button=====
+21:33:38.470 [TestNG-PoolService-1] INFO  - =====Entering username and password=====
+21:33:39.341 [TestNG-PoolService-1] INFO  - ====="Validating login result for status: " + status=====
+21:47:34.785 [TestNG-PoolService-1] INFO  - =====Clicking login button=====
+21:47:39.713 [TestNG-PoolService-4] INFO  - =====Clicking login button=====
+21:47:41.116 [TestNG-PoolService-4] INFO  - =====Entering username and password=====
+21:47:41.991 [TestNG-PoolService-4] INFO  - ====="Validating login result for status: " + status=====
+21:48:08.150 [TestNG-PoolService-3] INFO  - =====Clicking login button=====
+21:48:08.494 [TestNG-PoolService-2] INFO  - =====Clicking login button=====
+21:48:10.383 [TestNG-PoolService-3] INFO  - =====Entering username and password=====
+21:48:11.011 [TestNG-PoolService-2] INFO  - =====Entering username and password=====
+21:48:11.167 [TestNG-PoolService-3] INFO  - ====="Validating login result for status: " + status=====
+21:48:12.002 [TestNG-PoolService-2] INFO  - ====="Validating login result for status: " + status=====
+21:48:13.268 [TestNG-PoolService-1] INFO  - =====Entering username and password=====
+21:49:04.563 [TestNG-PoolService-1] INFO  - ====="Validating login result for status: " + status=====
+21:59:23.932 [TestNG-PoolService-4] INFO  - =====Clicking login button=====
+21:59:25.267 [TestNG-PoolService-3] INFO  - =====Entering username and password=====
+21:59:27.636 [TestNG-PoolService-4] INFO  - =====Entering username and password=====
+21:59:27.742 [TestNG-PoolService-3] INFO  - ====="Validating login result for status: " + status=====
+21:59:29.256 [TestNG-PoolService-4] INFO  - ====="Validating login result for status: " + status=====
+21:59:29.371 [TestNG-PoolService-2] INFO  - =====Entering username and password=====
+21:59:29.862 [TestNG-PoolService-1] INFO  - =====Entering username and password=====
+21:59:30.527 [TestNG-PoolService-2] INFO  - ====="Validating login result for status: " + status=====
+21:59:34.488 [TestNG-PoolService-1] INFO  - ====="Validating login result for status: " + status=====
+22:07:34.079 [TestNG-PoolService-2] INFO  - =====Clicking login button=====
+22:07:34.355 [TestNG-PoolService-4] INFO  - =====Clicking login button=====
+22:07:34.740 [TestNG-PoolService-1] INFO  - =====Clicking login button=====
+22:08:00.892 [TestNG-PoolService-4] INFO  - =====Entering username and password=====
+22:08:01.506 [TestNG-PoolService-4] INFO  - ====="Validating login result for status: " + status=====
+22:08:02.750 [TestNG-PoolService-2] INFO  - =====Entering username and password=====
+22:08:03.236 [TestNG-PoolService-2] INFO  - ====="Validating login result for status: " + status=====
+22:08:10.104 [TestNG-PoolService-3] INFO  - =====Clicking login button=====
+22:08:11.632 [TestNG-PoolService-1] INFO  - =====Entering username and password=====
+22:08:12.001 [TestNG-PoolService-3] INFO  - =====Entering username and password=====
+22:08:12.601 [TestNG-PoolService-3] INFO  - ====="Validating login result for status: " + status=====
+22:09:07.086 [TestNG-PoolService-1] INFO  - ====="Validating login result for status: " + status=====
+22:16:23.851 [TestNG-PoolService-6] INFO  - =====Clicking login button=====
+22:16:48.278 [TestNG-PoolService-9] INFO  - =====Clicking login button=====
+22:16:50.496 [TestNG-PoolService-9] INFO  - =====Entering username and password=====
+22:16:51.013 [TestNG-PoolService-9] INFO  - ====="Validating login result for status: " + status=====
+22:16:52.962 [TestNG-PoolService-7] INFO  - =====Clicking login button=====
+22:16:56.282 [TestNG-PoolService-7] INFO  - =====Entering username and password=====
+22:16:57.249 [TestNG-PoolService-7] INFO  - ====="Validating login result for status: " + status=====
+22:17:03.458 [TestNG-PoolService-6] INFO  - =====Entering username and password=====
+22:17:52.545 [TestNG-PoolService-8] INFO  - =====Clicking login button=====
+22:17:55.182 [TestNG-PoolService-8] INFO  - =====Entering username and password=====
+22:17:56.212 [TestNG-PoolService-8] INFO  - ====="Validating login result for status: " + status=====
+22:18:59.679 [TestNG-PoolService-6] INFO  - ====="Validating login result for status: " + status=====
+22:27:43.650 [TestNG-PoolService-6] INFO  - =====Clicking login button=====
+22:27:45.739 [TestNG-PoolService-6] INFO  - =====Entering username and password=====
+22:27:46.604 [TestNG-PoolService-6] INFO  - ====="Validating login result for status: " + status=====
+22:27:58.779 [TestNG-PoolService-7] INFO  - =====Clicking login button=====
+22:28:01.187 [TestNG-PoolService-7] INFO  - =====Entering username and password=====
+22:28:01.986 [TestNG-PoolService-7] INFO  - ====="Validating login result for status: " + status=====
+22:28:02.241 [TestNG-PoolService-8] INFO  - =====Clicking login button=====
+22:28:04.354 [TestNG-PoolService-8] INFO  - =====Entering username and password=====
+22:28:05.240 [TestNG-PoolService-8] INFO  - ====="Validating login result for status: " + status=====
+22:28:33.895 [TestNG-PoolService-9] INFO  - =====Clicking login button=====
+22:28:36.222 [TestNG-PoolService-9] INFO  - =====Entering username and password=====
+22:28:36.733 [TestNG-PoolService-9] INFO  - ====="Validating login result for status: " + status=====
+22:34:55.331 [TestNG-PoolService-6] INFO  - =====Clicking login button=====
+22:35:02.295 [TestNG-PoolService-6] INFO  - =====Entering username and password=====
+22:35:06.869 [TestNG-PoolService-6] INFO  - ====="Validating login result for status: " + status=====
+22:35:23.562 [TestNG-PoolService-7] INFO  - =====Clicking login button=====
+22:35:25.637 [TestNG-PoolService-7] INFO  - =====Entering username and password=====
+22:35:26.366 [TestNG-PoolService-7] INFO  - ====="Validating login result for status: " + status=====
+22:35:31.516 [TestNG-PoolService-8] INFO  - =====Clicking login button=====
+22:35:33.569 [TestNG-PoolService-8] INFO  - =====Entering username and password=====
+22:35:34.263 [TestNG-PoolService-8] INFO  - ====="Validating login result for status: " + status=====
+22:35:39.145 [TestNG-PoolService-9] INFO  - =====Clicking login button=====
+22:35:42.156 [TestNG-PoolService-9] INFO  - =====Entering username and password=====
+22:35:42.700 [TestNG-PoolService-9] INFO  - ====="Validating login result for status: " + status=====
+22:40:49.460 [TestNG-PoolService-7] INFO  - =====Clicking login button=====
+22:40:50.366 [TestNG-PoolService-8] INFO  - =====Clicking login button=====
+22:40:51.275 [TestNG-PoolService-6] INFO  - =====Clicking login button=====
+22:40:53.396 [TestNG-PoolService-7] INFO  - =====Entering username and password=====
+22:40:54.099 [TestNG-PoolService-6] INFO  - =====Entering username and password=====
+22:40:54.398 [TestNG-PoolService-9] INFO  - =====Clicking login button=====
+22:40:55.813 [TestNG-PoolService-8] INFO  - =====Entering username and password=====
+22:40:56.811 [TestNG-PoolService-7] INFO  - ====="Validating login result for status: " + status=====
+22:40:57.288 [TestNG-PoolService-8] INFO  - ====="Validating login result for status: " + status=====
+22:40:57.628 [TestNG-PoolService-9] INFO  - =====Entering username and password=====
+22:40:58.118 [TestNG-PoolService-6] INFO  - ====="Validating login result for status: " + status=====
+22:40:58.781 [TestNG-PoolService-9] INFO  - ====="Validating login result for status: " + status=====
+22:53:48.710 [TestNG-PoolService-9] INFO  - =====Clicking login button=====
+22:53:53.479 [TestNG-PoolService-8] INFO  - =====Clicking login button=====
+22:53:53.555 [TestNG-PoolService-7] INFO  - =====Clicking login button=====
+22:53:55.334 [TestNG-PoolService-6] INFO  - =====Clicking login button=====
+22:53:55.698 [TestNG-PoolService-7] INFO  - =====Entering username and password=====
+22:54:00.284 [TestNG-PoolService-7] INFO  - ====="Validating login result for status: " + status=====
+22:54:04.548 [TestNG-PoolService-8] INFO  - =====Entering username and password=====
+22:54:06.254 [TestNG-PoolService-8] INFO  - ====="Validating login result for status: " + status=====
+22:54:10.172 [TestNG-PoolService-6] INFO  - =====Entering username and password=====
+22:54:13.997 [TestNG-PoolService-6] INFO  - ====="Validating login result for status: " + status=====
+22:54:24.271 [TestNG-PoolService-9] INFO  - =====Entering username and password=====
+22:54:24.770 [TestNG-PoolService-9] INFO  - ====="Validating login result for status: " + status=====
+10:09:33.236 [TestNG-PoolService-7] INFO  - =====Clicking login button=====
+10:09:33.245 [TestNG-PoolService-8] INFO  - =====Clicking login button=====
+10:09:34.781 [TestNG-PoolService-6] INFO  - =====Clicking login button=====
+10:09:36.397 [TestNG-PoolService-7] INFO  - =====Entering username and password=====
+10:09:37.144 [TestNG-PoolService-9] INFO  - =====Clicking login button=====
+10:09:39.016 [TestNG-PoolService-8] INFO  - =====Entering username and password=====
+10:09:39.027 [TestNG-PoolService-9] INFO  - =====Entering username and password=====
+10:09:39.290 [TestNG-PoolService-7] INFO  - ====="Validating login result for status: " + status=====
+10:09:40.719 [TestNG-PoolService-8] INFO  - ====="Validating login result for status: " + status=====
+10:09:41.191 [TestNG-PoolService-6] INFO  - =====Entering username and password=====
+10:09:42.086 [TestNG-PoolService-9] INFO  - ====="Validating login result for status: " + status=====
+10:09:48.227 [TestNG-PoolService-6] INFO  - ====="Validating login result for status: " + status=====
+10:14:18.162 [TestNG-PoolService-6] INFO  - =====Clicking login button=====
+10:14:19.917 [TestNG-PoolService-6] INFO  - =====Entering username and password=====
+10:14:21.002 [TestNG-PoolService-7] INFO  - =====Clicking login button=====
+10:14:21.024 [TestNG-PoolService-9] INFO  - =====Clicking login button=====
+10:14:21.836 [TestNG-PoolService-8] INFO  - =====Clicking login button=====
+10:14:22.796 [TestNG-PoolService-7] INFO  - =====Entering username and password=====
+10:14:23.756 [TestNG-PoolService-9] INFO  - =====Entering username and password=====
+10:14:23.957 [TestNG-PoolService-8] INFO  - =====Entering username and password=====
+10:14:24.320 [TestNG-PoolService-7] INFO  - ====="Validating login result for status: " + status=====
+10:14:24.759 [TestNG-PoolService-9] INFO  - ====="Validating login result for status: " + status=====
+10:14:25.357 [TestNG-PoolService-8] INFO  - ====="Validating login result for status: " + status=====
+10:14:28.707 [TestNG-PoolService-6] INFO  - ====="Validating login result for status: " + status=====

@@ -1,65 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="139.488" tests="27" skipped="0" failures="0" errors="0">
-<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.5" time="53.378">
-<system-out><![CDATA[
-Given the user is logged in.................................................passed
-And user navigates to "Test Cases" page.....................................passed
-Then all images should not be broken........................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.4" time="43.331">
-<system-out><![CDATA[
-Given the user is logged in.................................................passed
-And user navigates to "Cart" page...........................................passed
-Then all images should not be broken........................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.3" time="45.24">
-<system-out><![CDATA[
-Given the user is logged in.................................................passed
-And user navigates to "Contact us" page.....................................passed
-Then all images should not be broken........................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.2" time="73.928">
-<system-out><![CDATA[
-Given the user is logged in.................................................passed
-And user navigates to "Products" page.......................................passed
-Then all images should not be broken........................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Login Functionality" name="Verify login - Example #1.3" time="28.05">
-<system-out><![CDATA[
-Given user is on login page.................................................passed
-When user enters "" and "testrttestrt"......................................passed
-And user clicks "Login" button..............................................passed
-Then user is redirected accordingly "invalid"...............................passed
-]]></system-out>
-</testcase>
-<testcase classname="Login Functionality" name="Verify login - Example #1.2" time="27.887">
-<system-out><![CDATA[
-Given user is on login page.................................................passed
-When user enters "testrtqa@gmail.com" and ""................................passed
-And user clicks "Login" button..............................................passed
-Then user is redirected accordingly "invalid"...............................passed
-]]></system-out>
-</testcase>
-<testcase classname="Login Functionality" name="Verify login - Example #1.1" time="31.633">
-<system-out><![CDATA[
-Given user is on login page.................................................passed
-When user enters "testrtqa@gmail.com" and "testrttestrt"....................passed
-And user clicks "Login" button..............................................passed
-Then user is redirected accordingly "valid".................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.6" time="65.512">
-<system-out><![CDATA[
-Given the user is logged in.................................................passed
-And user navigates to "API Testing" page....................................passed
-Then all images should not be broken........................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Login Functionality" name="Verify login - Example #1.4" time="27.911">
+<testsuite name="Cucumber" time="139.162" tests="27" skipped="0" failures="0" errors="0">
+<testcase classname="Login Functionality" name="Verify login - Example #1.4" time="49.904">
 <system-out><![CDATA[
 Given user is on login page.................................................passed
 When user enters "" and ""..................................................passed
@@ -67,14 +8,73 @@ And user clicks "Login" button..............................................pass
 Then user is redirected accordingly "invalid"...............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.1" time="53.399">
+<testcase classname="Login Functionality" name="Verify login - Example #1.3" time="30.924">
+<system-out><![CDATA[
+Given user is on login page.................................................passed
+When user enters "" and "testrttestrt"......................................passed
+And user clicks "Login" button..............................................passed
+Then user is redirected accordingly "invalid"...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.3" time="31.842">
+<system-out><![CDATA[
+Given the user is logged in.................................................passed
+And user navigates to "Contact us" page.....................................passed
+Then all images should not be broken........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Verify login - Example #1.1" time="48.132">
+<system-out><![CDATA[
+Given user is on login page.................................................passed
+When user enters "testrtqa@gmail.com" and "testrttestrt"....................passed
+And user clicks "Login" button..............................................passed
+Then user is redirected accordingly "valid".................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.6" time="45.094">
+<system-out><![CDATA[
+Given the user is logged in.................................................passed
+And user navigates to "API Testing" page....................................passed
+Then all images should not be broken........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.2" time="43.468">
+<system-out><![CDATA[
+Given the user is logged in.................................................passed
+And user navigates to "Products" page.......................................passed
+Then all images should not be broken........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Verify login - Example #1.2" time="31.495">
+<system-out><![CDATA[
+Given user is on login page.................................................passed
+When user enters "testrtqa@gmail.com" and ""................................passed
+And user clicks "Login" button..............................................passed
+Then user is redirected accordingly "invalid"...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.1" time="42.492">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Home" page...........................................passed
 Then all images should not be broken........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Products page functionality" name="Verify all images are displayed" time="20.365">
+<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.5" time="31.399">
+<system-out><![CDATA[
+Given the user is logged in.................................................passed
+And user navigates to "Test Cases" page.....................................passed
+Then all images should not be broken........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.4" time="31.137">
+<system-out><![CDATA[
+Given the user is logged in.................................................passed
+And user navigates to "Cart" page...........................................passed
+Then all images should not be broken........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify all images are displayed" time="68.187">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -82,7 +82,7 @@ When user is on Products page...............................................pass
 Then user should see 34 product images displayed............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Products page functionality" name="Verify Search Product Functionality" time="22.521">
+<testcase classname="Products page functionality" name="Verify Search Product Functionality" time="51.548">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -91,15 +91,7 @@ And clicks search button....................................................pass
 Then products related to Tshirt should be displayed.........................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Products page functionality" name="Verify subcategory filter displays correct products - Example #1.1" time="22.488">
-<system-out><![CDATA[
-Given the user is logged in.................................................passed
-And user navigates to "Products" page.......................................passed
-When user selects subcategory "Women" and "Tops"............................passed
-Then only products under "Tops" subcategory should be displayed.............passed
-]]></system-out>
-</testcase>
-<testcase classname="Products page functionality" name="Verify subcategory filter displays correct products - Example #1.2" time="47.686">
+<testcase classname="Products page functionality" name="Verify subcategory filter displays correct products - Example #1.2" time="45.594">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -107,7 +99,15 @@ When user selects subcategory "Women" and "Dress"...........................pass
 Then only products under "Dress" subcategory should be displayed............passed
 ]]></system-out>
 </testcase>
-<testcase classname="Products page functionality" name="Verify subcategory filter displays correct products - Example #1.3" time="48.112">
+<testcase classname="Products page functionality" name="Verify subcategory filter displays correct products - Example #1.1" time="49.776">
+<system-out><![CDATA[
+Given the user is logged in.................................................passed
+And user navigates to "Products" page.......................................passed
+When user selects subcategory "Women" and "Tops"............................passed
+Then only products under "Tops" subcategory should be displayed.............passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify subcategory filter displays correct products - Example #1.3" time="46.74">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -115,7 +115,7 @@ When user selects subcategory "Men" and "Tshirts"...........................pass
 Then only products under "Tshirts" subcategory should be displayed..........passed
 ]]></system-out>
 </testcase>
-<testcase classname="Products page functionality" name="Verify subcategory filter displays correct products - Example #1.4" time="58.797">
+<testcase classname="Products page functionality" name="Verify subcategory filter displays correct products - Example #1.4" time="57.79">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -123,7 +123,7 @@ When user selects subcategory "Kids" and "Tops & Shirts"....................pass
 Then only products under "Tops & Shirts" subcategory should be displayed....passed
 ]]></system-out>
 </testcase>
-<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.1" time="53.109">
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.1" time="40.815">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -132,7 +132,7 @@ Then only products under "Polo" should be displayed.........................pass
 Then user should see products displayed.....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.2" time="51.799">
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.2" time="44.803">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -141,7 +141,7 @@ Then only products under "H&M" should be displayed..........................pass
 Then user should see products displayed.....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.3" time="44.173">
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.3" time="50.889">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -150,7 +150,7 @@ Then only products under "Madame" should be displayed.......................pass
 Then user should see products displayed.....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.4" time="48.936">
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.4" time="81.821">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -159,7 +159,7 @@ Then only products under "Mast & Harbour" should be displayed...............pass
 Then user should see products displayed.....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.5" time="43.554">
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.5" time="54.87">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -168,7 +168,7 @@ Then only products under "Babyhug" should be displayed......................pass
 Then user should see products displayed.....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.6" time="73.67">
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.6" time="60.279">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -177,7 +177,7 @@ Then only products under "Allen Solly Junior" should be displayed...........pass
 Then user should see products displayed.....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.7" time="45.885">
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.7" time="38.537">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -186,7 +186,7 @@ Then only products under "Kookie Kids" should be displayed..................pass
 Then user should see products displayed.....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.8" time="51.959">
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.8" time="45.574">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -195,7 +195,7 @@ Then only products under "Biba" should be displayed.........................pass
 Then user should see products displayed.....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Purchase Product" name="Successful purchase of a product" time="46.957">
+<testcase classname="Purchase Product" name="Successful purchase of a product" time="54.569">
 <system-out><![CDATA[
 Given the user is logged in.................................................passed
 And user navigates to "Products" page.......................................passed
@@ -213,7 +213,7 @@ And user clicks "Pay and Confirm Order" submit button.......................pass
 Then user should see "Order Placed!" message................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="User registration" name="Successful user registration" time="39.372">
+<testcase classname="User registration" name="Successful user registration" time="31.674">
 <system-out><![CDATA[
 Given the user is on the registration page..................................passed
 When user Enter name and email address......................................passed
@@ -229,7 +229,7 @@ When user click "Continue" button...........................................pass
 Then user should see  "Logged in as" user...................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="User registration" name="Register user with existing email" time="40.071">
+<testcase classname="User registration" name="Register user with existing email" time="19.72">
 <system-out><![CDATA[
 Given the user is on the registration page..................................passed
 When User Enter name and already registered email address "testrtqa@gmail.com".passed

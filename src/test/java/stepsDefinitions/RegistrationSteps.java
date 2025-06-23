@@ -61,14 +61,13 @@ public class RegistrationSteps {
 
 	@When("user select checkbox Sign up for our newsletter!")
 	public void user_select_checkbox_sign_up_for_our_newsletter() {
-		//registration = new RegistrationPage(BaseClass.getDriver());
+	
 		registration.clickNewsLetter();
 		
 	}
 
 	@When("user select checkbox Receive special offers from our partners!")
 	public void user_select_checkbox_receive_special_offers_from_our_partners() throws InterruptedException {
-		//registration = new RegistrationPage(BaseClass.getDriver());
 		registration.clickSpecialOffer();
 		
 	}
@@ -102,7 +101,6 @@ public class RegistrationSteps {
 
 	@When("user click {string} button")
 	public void user_click_button(String string) {
-		//accountcreatedpage.clickButton(string);
 		accountcreatedpage.clickContinue();
 	}
 

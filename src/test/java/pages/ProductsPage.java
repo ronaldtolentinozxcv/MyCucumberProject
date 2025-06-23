@@ -48,6 +48,14 @@ public class ProductsPage extends BasePage {
 	@FindBy(xpath="//h4[normalize-space()='Added!']")
 	WebElement msg_added;
 	
+	@FindBy(xpath="(//a[contains(text(),'View Product')])[1]")
+	WebElement btn_viewProduct1;
+	
+	public void clickViewProduct1()
+	{
+		btn_viewProduct1.click();
+	}
+	
 	
 	public void clickAddToCart_MenTshirt()
 	{

@@ -18,14 +18,12 @@ public class TestCasesSteps {
 		driver=DriverFactory.getDriver();
 		topbar=new TopBar(driver);
 		testcasespage=new TestCasesPage(driver);
-
 	}
 
 
 	@Given("the user is on the home page")
 	public void the_user_is_on_the_home_page() {
 		System.out.println(driver.getCurrentUrl());
-
 	}
 
 
@@ -36,9 +34,7 @@ public class TestCasesSteps {
 
 	@Then("the Test Cases page should be displayed")
 	public void the_test_cases_page_should_be_displayed() {
-		Assert.assertTrue(driver.getCurrentUrl().contains("test_cases"));
-
-		
+		Assert.assertTrue(driver.getCurrentUrl().contains("test_cases"));	
 	}
 
 	@When("the user clicks each test case panel")

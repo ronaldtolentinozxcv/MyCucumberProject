@@ -43,3 +43,9 @@ Feature: Products page functionality
       | Allen Solly Junior |
       | Kookie Kids        |
       | Biba               |
+
+  @smoketest @regression
+  Scenario: View details of the first product
+    When the user clicks on "View Product" of the first product
+    Then the user should be landed on the product detail page
+    And the product name, category, rating, price, availability, condition, and brand should be visible

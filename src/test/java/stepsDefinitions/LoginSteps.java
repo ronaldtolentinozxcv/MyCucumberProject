@@ -49,7 +49,7 @@ public class LoginSteps {
 
 	@When("user clicks {string} button")
 	public void user_clicks_button(String button) {
-		loginpage = new LoginPage(DriverFactory.getDriver());
+		loginpage = new LoginPage(driver);
 		loginpage.clickButton(button);
 	}
 

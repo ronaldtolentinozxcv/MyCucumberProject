@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="82.753" tests="32" skipped="0" failures="0" errors="0">
+<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.3" time="22.338">
+<system-out><![CDATA[
+And user navigates to "Contact us" page.....................................passed
+Then all images should not be broken........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.4" time="21.734">
+<system-out><![CDATA[
+And user navigates to "Cart" page...........................................passed
+Then all images should not be broken........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.2" time="33.109">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+Then all images should not be broken........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.1" time="33.744">
+<system-out><![CDATA[
+And user navigates to "Home" page...........................................passed
+Then all images should not be broken........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Verify login - Example #1.2" time="22.322">
+<system-out><![CDATA[
+Given user is on login page.................................................passed
+When user enters "testrtqa@gmail.com" and ""................................passed
+And user clicks "Login" button..............................................passed
+Then user is redirected accordingly "invalid"...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Contact Us Form Functionality" name="Submit contact form with valid details" time="22.168">
+<system-out><![CDATA[
+Given the user is on the Contact Us page....................................passed
+When the user enters name "QA tester".......................................passed
+And enters email "test@gmail.com"...........................................passed
+And enters subject "Inquiry about product"..................................passed
+And enters message "Please provide more details about the product.".........passed
+And uploads a file..........................................................passed
+And clicks the Submit button................................................passed
+And clicks Ok on Alert message..............................................passed
+Then a success message "Success! Your details have been submitted successfully." should be displayed.passed
+And the user clicks the "Home" button.......................................passed
+Then the user should be navigated to the homepage...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.6" time="20.451">
+<system-out><![CDATA[
+And user navigates to "API Testing" page....................................passed
+Then all images should not be broken........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Verify login - Example #1.3" time="21.807">
+<system-out><![CDATA[
+Given user is on login page.................................................passed
+When user enters "" and "testrttestrt"......................................passed
+And user clicks "Login" button..............................................passed
+Then user is redirected accordingly "invalid"...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Verify login - Example #1.1" time="32.759">
+<system-out><![CDATA[
+Given user is on login page.................................................passed
+When user enters "testrtqa@gmail.com" and "testrttestrt"....................passed
+And user clicks "Login" button..............................................passed
+Then user is redirected accordingly "valid".................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Image Validation" name="Verify images are not broken on all main pages - Example #1.5" time="22.193">
+<system-out><![CDATA[
+And user navigates to "Test Cases" page.....................................passed
+Then all images should not be broken........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Verify login - Example #1.4" time="17.194">
+<system-out><![CDATA[
+Given user is on login page.................................................passed
+When user enters "" and ""..................................................passed
+And user clicks "Login" button..............................................passed
+Then user is redirected accordingly "invalid"...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify all images are displayed" time="15.932">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user is on Products page...............................................passed
+Then user should see 34 product images displayed............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify Search Product Functionality" time="22.035">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user enters "Tshirt" in search field...................................passed
+And clicks search button....................................................passed
+Then products related to Tshirt should be displayed.........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify subcategory filter displays correct products - Example #1.1" time="18.243">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user selects subcategory "Women" and "Tops"............................passed
+Then only products under "Tops" subcategory should be displayed.............passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify subcategory filter displays correct products - Example #1.2" time="21.892">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user selects subcategory "Women" and "Dress"...........................passed
+Then only products under "Dress" subcategory should be displayed............passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify subcategory filter displays correct products - Example #1.3" time="22.3">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user selects subcategory "Men" and "Tshirts"...........................passed
+Then only products under "Tshirts" subcategory should be displayed..........passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify subcategory filter displays correct products - Example #1.4" time="20.501">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user selects subcategory "Kids" and "Tops & Shirts"....................passed
+Then only products under "Tops & Shirts" subcategory should be displayed....passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.1" time="25.232">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user clicks "Polo".....................................................passed
+Then only products under "Polo" should be displayed.........................passed
+Then user should see products displayed.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.2" time="23.728">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user clicks "H&M"......................................................passed
+Then only products under "H&M" should be displayed..........................passed
+Then user should see products displayed.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.3" time="28.457">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user clicks "Madame"...................................................passed
+Then only products under "Madame" should be displayed.......................passed
+Then user should see products displayed.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.4" time="28.252">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user clicks "Mast & Harbour"...........................................passed
+Then only products under "Mast & Harbour" should be displayed...............passed
+Then user should see products displayed.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.5" time="25.797">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user clicks "Babyhug"..................................................passed
+Then only products under "Babyhug" should be displayed......................passed
+Then user should see products displayed.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.6" time="24.006">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user clicks "Allen Solly Junior".......................................passed
+Then only products under "Allen Solly Junior" should be displayed...........passed
+Then user should see products displayed.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.7" time="23.076">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user clicks "Kookie Kids"..............................................passed
+Then only products under "Kookie Kids" should be displayed..................passed
+Then user should see products displayed.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="Verify Brands displays correct page - Example #1.8" time="22.083">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When user clicks "Biba".....................................................passed
+Then only products under "Biba" should be displayed.........................passed
+Then user should see products displayed.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Products page functionality" name="View details of the first product" time="23.993">
+<system-out><![CDATA[
+And user navigates to "Products" page.......................................passed
+When the user clicks on "View Product" of the first product.................passed
+Then the user should be landed on the product detail page...................passed
+And the product name, category, rating, price, availability, condition, and brand should be visible.passed
+]]></system-out>
+</testcase>
+<testcase classname="Purchase Product" name="Successful purchase of a product" time="33.44">
+<system-out><![CDATA[
+Given the user is logged in.................................................passed
+And user navigates to "Products" page.......................................passed
+When user clicks "Add to cart" on any product...............................passed
+Then user should see "Added!" message box...................................passed
+And user clicks "Continue Shopping" button..................................passed
+And user navigates to "Cart" page...........................................passed
+Then user should see products added in cart.................................passed
+When user clicks "Proceed To Checkout" link button..........................passed
+Then user should be redirected to "checkout" page...........................passed
+When user clicks "Place Order" link button..................................passed
+Then user should be redirected to "payment" page............................passed
+When user enters details for Name on Card, Card Number, CVC, Expiration Month, Expiration Year.passed
+And user clicks "Pay and Confirm Order" submit button.......................passed
+Then user should see "Order Placed!" message................................passed
+]]></system-out>
+</testcase>
+<testcase classname="User registration" name="Successful user registration" time="25.539">
+<system-out><![CDATA[
+Given the user is on the registration page..................................passed
+When user Enter name and email address......................................passed
+And click "Signup" button...................................................passed
+Then user should redirected to signup page..................................passed
+When user enter details for Title, Name, Email, Password, Date of birth.....passed
+And user select checkbox Sign up for our newsletter!........................passed
+And user select checkbox Receive special offers from our partners!..........passed
+And user fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number.passed
+And user click on "Create Account" button...................................passed
+Then user should see  "ACCOUNT CREATED!" message............................passed
+When user click "Continue" button...........................................passed
+Then user should see  "Logged in as" user...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="User registration" name="Register user with existing email" time="12.796">
+<system-out><![CDATA[
+Given the user is on the registration page..................................passed
+When User Enter name and already registered email address "testrtqa@gmail.com".passed
+And click "Signup" button...................................................passed
+Then User should still be on login page.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate Test Cases Page" name="Navigate to Test Cases page" time="14.088">
+<system-out><![CDATA[
+Given the user is on the home page..........................................passed
+When the user clicks "Test Cases" from the top bar..........................passed
+Then the Test Cases page should be displayed................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate Test Cases Page" name="Expand and verify all test cases" time="16.39">
+<system-out><![CDATA[
+Given the user is on the home page..........................................passed
+When the user clicks "Test Cases" from the top bar..........................passed
+When the user clicks each test case panel...................................passed
+Then all test cases should expand and display their descriptions............passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate Test Cases Page" name="Verify all test cases are displayed" time="10.781">
+<system-out><![CDATA[
+Given the user is on the home page..........................................passed
+When the user clicks "Test Cases" from the top bar..........................passed
+Then user should see 26 test cases..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

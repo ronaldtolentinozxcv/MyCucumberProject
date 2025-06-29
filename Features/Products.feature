@@ -1,7 +1,7 @@
 Feature: Products page functionality
 
   Background: 
-    Given the user is logged in
+    #Given the user is logged in
     And user navigates to "Products" page
 
   @smoketest @regression

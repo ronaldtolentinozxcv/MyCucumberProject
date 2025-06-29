@@ -16,7 +16,7 @@ import base.DriverFactory;
 
 public class ProductsPage extends BasePage {
 
-	WebDriver driver = DriverFactory.getDriver(); //for using the driver in methods
+	WebDriver driver;
 	public ProductsPage(WebDriver driver) {
 		super(driver);
 		this.driver=driver; //for using the driver in methods
@@ -53,7 +53,11 @@ public class ProductsPage extends BasePage {
 	
 	public void clickViewProduct1()
 	{
-		btn_viewProduct1.click();
+	
+		
+		JavascriptExecutor js=(JavascriptExecutor)driver;
+		js.executeScript("arguments[0].click()", btn_viewProduct1);
+		
 	}
 	
 	
@@ -111,7 +115,8 @@ public class ProductsPage extends BasePage {
 	
 	public void clickSearchButton()
 	{
-		btn_search.click();
+		WebDriverWait wait=new WebDriverWait(driver, Duration.ofSeconds(10));
+		wait.until(ExpectedConditions.elementToBeClickable(btn_search)).click();
 	}
 	
 	public void clickMainCategory(String main)

@@ -467,3 +467,47 @@
 20:36:39.207 [main] INFO  - =====Clicking login button=====
 20:36:41.581 [main] INFO  - =====Entering username and password=====
 20:36:41.998 [main] INFO  - ====="Validating login result for status: " + status=====
+12:24:36.764 [TestNG-PoolService-8] INFO  - =====Clicking login button=====
+12:24:38.736 [TestNG-PoolService-8] INFO  - =====Entering username and password=====
+12:24:39.368 [TestNG-PoolService-8] INFO  - ====="Validating login result for status: " + status=====
+12:24:46.475 [TestNG-PoolService-8] INFO  - =====Clicking login button=====
+12:24:47.800 [TestNG-PoolService-9] INFO  - =====Clicking login button=====
+12:24:48.296 [TestNG-PoolService-8] INFO  - =====Entering username and password=====
+12:24:49.368 [TestNG-PoolService-8] INFO  - ====="Validating login result for status: " + status=====
+12:24:49.836 [TestNG-PoolService-9] INFO  - =====Entering username and password=====
+12:24:50.535 [TestNG-PoolService-9] INFO  - ====="Validating login result for status: " + status=====
+12:24:51.730 [TestNG-PoolService-7] INFO  - =====Clicking login button=====
+12:24:53.642 [TestNG-PoolService-7] INFO  - =====Entering username and password=====
+12:25:37.582 [TestNG-PoolService-7] INFO  - ====="Validating login result for status: " + status=====
+17:47:15.443 [TestNG-PoolService-9] INFO  - =====Clicking login button=====
+17:47:16.991 [TestNG-PoolService-9] INFO  - =====Entering username and password=====
+17:47:17.631 [TestNG-PoolService-9] INFO  - ====="Validating login result for status: " + status=====
+17:47:23.889 [TestNG-PoolService-9] INFO  - =====Clicking login button=====
+17:47:24.960 [TestNG-PoolService-9] INFO  - =====Entering username and password=====
+17:47:25.498 [TestNG-PoolService-9] INFO  - ====="Validating login result for status: " + status=====
+17:47:38.854 [TestNG-PoolService-8] INFO  - =====Clicking login button=====
+17:47:41.726 [TestNG-PoolService-8] INFO  - =====Entering username and password=====
+17:47:42.643 [TestNG-PoolService-8] INFO  - ====="Validating login result for status: " + status=====
+18:41:48.419 [TestNG-PoolService-8] INFO  - =====Clicking login button=====
+18:41:50.103 [TestNG-PoolService-7] INFO  - =====Entering username and password=====
+18:41:53.576 [TestNG-PoolService-7] INFO  - ====="Validating login result for status: " + status=====
+18:41:56.929 [TestNG-PoolService-8] INFO  - =====Entering username and password=====
+18:41:57.525 [TestNG-PoolService-8] INFO  - ====="Validating login result for status: " + status=====
+18:41:59.263 [TestNG-PoolService-9] INFO  - =====Clicking login button=====
+18:42:03.645 [TestNG-PoolService-3] INFO  - =====Clicking login button=====
+18:42:05.620 [TestNG-PoolService-3] INFO  - =====Entering username and password=====
+18:42:05.669 [TestNG-PoolService-9] INFO  - =====Entering username and password=====
+18:42:06.371 [TestNG-PoolService-9] INFO  - ====="Validating login result for status: " + status=====
+18:42:07.116 [TestNG-PoolService-3] INFO  - ====="Validating login result for status: " + status=====
+18:46:16.007 [TestNG-PoolService-8] INFO  - =====Clicking login button=====
+18:46:16.383 [TestNG-PoolService-9] INFO  - =====Clicking login button=====
+18:46:19.397 [TestNG-PoolService-8] INFO  - =====Entering username and password=====
+18:46:20.013 [TestNG-PoolService-7] INFO  - =====Clicking login button=====
+18:46:20.922 [TestNG-PoolService-8] INFO  - ====="Validating login result for status: " + status=====
+18:46:21.283 [TestNG-PoolService-9] INFO  - =====Entering username and password=====
+18:46:22.312 [TestNG-PoolService-9] INFO  - ====="Validating login result for status: " + status=====
+18:46:23.582 [TestNG-PoolService-7] INFO  - =====Entering username and password=====
+18:46:29.008 [TestNG-PoolService-7] INFO  - ====="Validating login result for status: " + status=====
+18:46:31.316 [TestNG-PoolService-6] INFO  - =====Clicking login button=====
+18:46:33.897 [TestNG-PoolService-6] INFO  - =====Entering username and password=====
+18:46:38.323 [TestNG-PoolService-6] INFO  - ====="Validating login result for status: " + status=====

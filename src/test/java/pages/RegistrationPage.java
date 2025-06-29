@@ -11,7 +11,7 @@ import base.BasePage;
 import base.DriverFactory;
 
 public class RegistrationPage extends BasePage {
-	WebDriver driver = DriverFactory.getDriver(); //for using the driver in methods
+	WebDriver driver; //for using the driver in methods
 	public RegistrationPage(WebDriver driver) {
 		super(driver);
 		this.driver = driver; //for using the driver in methods

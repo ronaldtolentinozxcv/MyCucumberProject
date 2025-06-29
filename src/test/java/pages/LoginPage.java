@@ -10,7 +10,7 @@ import base.BasePage;
 import base.DriverFactory;
 
 public class LoginPage extends BasePage {
-	WebDriver driver = DriverFactory.getDriver();
+	WebDriver driver;
 	public LoginPage(WebDriver driver) {
 		super(driver);
 		this.driver = driver; //for using the driver in methods

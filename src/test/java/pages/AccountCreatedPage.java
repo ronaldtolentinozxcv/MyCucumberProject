@@ -13,7 +13,7 @@ public class AccountCreatedPage extends BasePage{
 	
 	
 	
-	WebDriver driver = DriverFactory.getDriver(); //for using the driver in methods
+	WebDriver driver; //for using the driver in methods
 	public AccountCreatedPage(WebDriver driver) {
 		super(driver);
 		this.driver = driver; //for using the driver in methods

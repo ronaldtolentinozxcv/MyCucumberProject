@@ -13,7 +13,7 @@ import base.BasePage;
 import base.DriverFactory;
 
 public class TopBar extends BasePage {
-	WebDriver driver = DriverFactory.getDriver();
+	WebDriver driver;
 	public TopBar(WebDriver driver) {
 		super(driver);
 		this.driver = driver; //for using the driver in methods

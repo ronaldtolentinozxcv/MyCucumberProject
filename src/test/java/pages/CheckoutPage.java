@@ -8,7 +8,7 @@ import base.BasePage;
 import base.DriverFactory;
 
 public class CheckoutPage extends BasePage {
-	WebDriver driver = DriverFactory.getDriver(); //for using the driver in methods
+	WebDriver driver; //for using the driver in methods
 	public CheckoutPage(WebDriver driver) {
 		super(driver);
 		this.driver = driver; //for using the driver in methods 

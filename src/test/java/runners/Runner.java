@@ -7,8 +7,8 @@ import io.cucumber.testng.CucumberOptions;
 
 //@RunWith(Cucumber.class)
 @CucumberOptions(
-		//features= {".//Features/"}, 
-		features= {"@reports/Failed Scenarios/rerun.txt"},
+		features= {".//Features/"}, 
+		//features= {"@reports/Failed Scenarios/rerun.txt"},
 		glue={"stepsDefinitions", "hooks"},
 		plugin= {"pretty", "html:reports/Cucumber Report/myreport.html",
 				"json:reports/JSON Report/JSONreport.report",

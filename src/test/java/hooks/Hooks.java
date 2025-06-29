@@ -1,6 +1,7 @@
 package hooks;
 
 import java.io.IOException;
+import java.time.Duration;
 import java.util.Properties;
 
 import org.openqa.selenium.OutputType;
@@ -29,7 +30,9 @@ public class Hooks {
     public void setup() throws IOException {
         DriverFactory.loadConfig();  // load config first!
         DriverFactory.setDriver();
+        //DriverFactory.getDriver().manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
         DriverFactory.getDriver().get(DriverFactory.getProperties().getProperty("appURL"));
+        
     }
 
     @After
